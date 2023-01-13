@@ -1,0 +1,68 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.nav-link{
+  color: #b5b5b5;
+  font-size: 150%;
+  font-family: 'Rajdhani';
+}
+
+.nav-linkactive{
+  color: white;
+  font-size: 150%;
+ font-family: 'Rajdhani';
+}
+
+.navbar-brand{
+  color: white;
+  font-size: 200%;
+  font-family: 'Rajdhani';
+}
+
+.heading{
+    color: #3c8e06;
+  font-size: 250%;
+  font-family: 'Inconsolata';
+  text-align: center;
+}
+
+.text{
+   color: #798685;
+  font-size: 170%;
+  font-family: 'Rajdhani';
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-style: dashed;
+  border-color: #3c8e06;
+  border-radius: 5px;
+   border-width: thick;
+  padding: 8px;
+}
+
+.img{
+  max-width: 400px;
+  width: 400px;
+  max-height: 500px;
+  height: 500px;
+  margin-left: 18%;
+    border-style: dotted;
+  border-color: #3c8e06;
+  border-radius: 5px;
+   border-width: thick;
+}
+
+.carousel-item{
+    max-width: 500px;
+    max-height: 600px;
+    margin-left: 34%;
+  
+}
+
+pallette{
+  color: #9cfd3a;
+  color: #011e02;
+}
+
